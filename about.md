@@ -3,27 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### 안녕하세요, 하은빈입니다.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+대구가톨릭대학교 컴퓨터소프트웨어학부에 재학 중인 26학번 학생입니다.  
+현재 **HCI(Human-Computer Interaction)** 연구실에서 학부생 연구원으로 활동하고 있습니다.
 
-There are currently two themes built on Poole:
+### 읽고, 쓰는 것을 좋아합니다.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+ 책 뿐만이 아니라 인터넷 공간에서도 관심이 가는 사람이 생기면 팔로우 하고 글을 읽습니다.
+ 이 과정에서 많은 영감을 얻곤 합니다.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+ ### 관심 분야 & 진로
 
-## Setup
+ 아직 파고 드는 분야는 없습니다. 
+ C언어와 Python 배우는 중입니다. 언어가 익숙해진다면, 차차 고민해 보겠습니다.
+ 
 
-Some fun facts about the setup of this project include:
+---
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+궁금한 점이 있거나 소통하고 싶다면 언제든 메일로 연락주세요.
