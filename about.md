@@ -6,7 +6,7 @@ title: About
 ### 안녕하세요, 하은빈입니다.
 
 대구가톨릭대학교 컴퓨터소프트웨어학부에 재학 중인 26학번 학생입니다.  
-현재 **HCI(Human-Computer Interaction)** 연구실에서 학부생 연구원으로 활동하고 있습니다.
+현재 **HCI(Human-Computer Interaction)** 연구실에서 학부 연구생으로 활동하고 있습니다.
 
 ### 읽고, 쓰는 것을 좋아합니다.
 
