@@ -13,8 +13,8 @@ A record of academic achievements, research activities, and honors.
 
 ### 🏆 Excellent Paper Award
 
-**KISCP 2026 Spring Conference**
-Korean Institute of Information Science and Communication Processing (KISCP)
+**KICSP 2026 Spring Conference**
+Korean Institute of Information Science and Communication Processing (KICSP)
 
 **Paper:**
 *Analysis of Data Bias and Generalization in an NER System Based on a Psychological Counseling Dataset*
