@@ -1,49 +1,39 @@
----
-icon: fas fa-microscope
-order: 6
-title: Research
----
+# Analysis of Data Bias and Generalization Limitations in NER Systems Based on Psychological Counseling Datasets
 
-# Research
+🏆 Excellent Paper Award
+KISCP 2026 Summer Conference
 
-My research interests focus on natural language processing,
-machine learning, and trustworthy artificial intelligence.
+Authors:
+- Eunbin Ha
+- Jeong-hoon Shin
 
 ---
-
-# Analysis of Data Bias and Generalization in an NER System Based on a Psychological Counseling Dataset
-
-🏆 Excellent Paper Award, KISCP 2025 Fall Conference
 
 ## Abstract
 
-This research investigates data bias and generalization issues in Named Entity Recognition (NER) systems trained on psychological counseling datasets.
-
-The study analyzes how dataset characteristics influence model performance and explores the robustness of NER systems in real-world counseling scenarios.
+This study investigates data bias and generalization limitations in Named Entity Recognition (NER) systems trained on psychological counseling datasets.
 
 ---
 
 ## Method
 
-- Psychological counseling dataset construction
-- Named Entity Recognition (NER)
-- Data bias analysis
-- Generalization evaluation
+- Label imbalance analysis
+- Topic bias analysis
+- Domain generalization analysis
+- Synthetic data augmentation
 
 ---
 
 ## Results
 
-- Identified dataset bias issues in counseling data.
-- Evaluated model generalization performance.
-- Presented findings at the KISCP conference.
+- Micro F1 improved from 59.07% to 84.30%.
+- Significant improvements were observed for minority labels.
+- Domain generalization remains an important challenge.
 
 ---
 
-## Presentation
+## Award
 
-Conference presentation at the KISCP 2025 Fall Conference.
-
----
-
-More research projects will be added in the future.
+Excellent Paper Award
+KISCP 2026 Summer Conference
+June 20, 2026
