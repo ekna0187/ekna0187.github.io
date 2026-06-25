@@ -3,7 +3,7 @@
 icon: fas fa-award
 order: 5
 title: Awards
--------------
+---
 
 # Awards & Honors
 
