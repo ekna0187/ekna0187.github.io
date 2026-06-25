@@ -13,7 +13,7 @@ machine learning, and trustworthy artificial intelligence.
 # Analysis of Data Bias and Generalization Limitations in NER Systems Based on Psychological Counseling Datasets
 
 🏆 Excellent Paper Award  
-KISCP 2026 Spring Conference
+KICSP 2026 Spring Conference
 
 **Authors**
 - Eunbin Ha
@@ -67,7 +67,7 @@ The proposed approach analyzes bias in psychological counseling datasets and eva
 
 ## Award
 
-This research received the **Excellent Paper Award** at the KISCP 2026 Spring Conference.
+This research received the **Excellent Paper Award** at the KICSP 2026 Spring Conference.
 
 **Award Date:** June 20, 2026
 
