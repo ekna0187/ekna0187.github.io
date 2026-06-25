@@ -13,7 +13,7 @@ A record of academic achievements, research activities, and honors.
 
 ### 🏆 Excellent Paper Award
 
-**KISCP 2026 Summer Conference**
+**KISCP 2026 Spring Conference**
 Korean Institute of Information Science and Communication Processing (KISCP)
 
 **Paper:**
