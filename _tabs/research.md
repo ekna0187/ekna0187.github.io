@@ -4,8 +4,6 @@ order: 6
 title: Research
 ---
 
-# Research
-
 My research interests focus on natural language processing,
 machine learning, and trustworthy artificial intelligence.
 
