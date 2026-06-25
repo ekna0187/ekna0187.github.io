@@ -33,9 +33,8 @@ Currently pursuing undergraduate studies in computer science.
 ## Skills
 
 - Python
-- C/C++
+- C
 - Git & GitHub
-- Linux
 - Machine Learning
 
 ## Links
