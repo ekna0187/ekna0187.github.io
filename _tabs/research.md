@@ -1,4 +1,5 @@
 ---
+layout: page
 icon: fas fa-microscope
 order: 6
 title: Research
