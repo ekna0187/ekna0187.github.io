@@ -1,6 +1,6 @@
 ---
 title: "Building a Brain FEM Pipeline for Dementia Research"
-date: 2026-07-27 22:00:00 +0900
+date: 2026-07-26 22:00:00 +0900
 categories: [Research, FEM]
 tags: [Dementia, FEM, SimNIBS, MRI, OASIS, ECT, ECVT, Python]
 toc: true
