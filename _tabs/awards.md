@@ -1,3 +1,9 @@
+---
+icon: fas fa-trophy
+order: 5
+title: Awards
+---
+
 ### 🏆 Excellent Paper Award
 
 <p align="center">
